@@ -16,7 +16,7 @@ Uma recriação funcional da calculadora nativa do macOS, desenvolvida inteirame
 *   **JavaScript (ES6+)**: Lógica da calculadora e interatividade.
 
 
-## 📸 Screenshots (Sugestão: Adicione aqui!)
+## 📸 Screenshots
 
 *   <img width="854" height="556" alt="image" src="https://github.com/user-attachments/assets/21abebe0-8c08-4078-adfa-449b52a6e9fb" />
 
