@@ -18,7 +18,8 @@ Uma recriação funcional da calculadora nativa do macOS, desenvolvida inteirame
 
 ## 📸 Screenshots (Sugestão: Adicione aqui!)
 
-*   *fotos a serem adicionadas*
+*   <img width="854" height="556" alt="image" src="https://github.com/user-attachments/assets/21abebe0-8c08-4078-adfa-449b52a6e9fb" />
+
 
 
 ---
